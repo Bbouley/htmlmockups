@@ -1,18 +1,30 @@
-
-
-.section-left{
-  padding-top: 100px;
-  float: left;
-  padding-left: 100px;
+body{
+  background-color: blue;
 }
 
-.section-right{
-  padding-top: 100px;
-  float:right;
-  padding-right: 100px;
+section{
+  width: 30%;
+  float:left;
+  margin: 9%;
+  background-color: white;
+  border: 3px solid black;
 }
+
 
 footer{
   clear:both;
   text-align: center;
+  background-color: white;
+  border: 3px solid black;
+  width: 20%;
+  margin: 40%;
+}
+
+header{
+  padding-left: 10%;
+  color: white;
+}
+
+ul{
+  list-style-type: none;
 }
