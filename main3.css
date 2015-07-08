@@ -1,24 +1,16 @@
 body{
   background-color: blue;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 section{
   width: 30%;
   float:left;
-  margin: 9%;
+  margin-left: 10%;
   background-color: white;
   border: 3px solid black;
 }
 
-
-footer{
-  clear:both;
-  text-align: center;
-  background-color: white;
-  border: 3px solid black;
-  width: 20%;
-  margin: 40%;
-}
 
 header{
   padding-left: 10%;
@@ -27,4 +19,18 @@ header{
 
 ul{
   list-style-type: none;
+}
+.names{
+  font-weight: bolder;
+}
+
+footer{
+  clear: both;
+}
+
+button{
+  margin-left: 40%;
+  color: black;
+  border: 3px solid black;
+  background-color: white
 }
