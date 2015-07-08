@@ -1,0 +1,29 @@
+li{
+  display: inline;
+  padding: 20px;
+}
+
+ul{
+  border: solid;
+}
+
+footer{
+  padding-top: 5%;
+}
+
+section{
+  color:purple;
+  padding-left: 5%;
+}
+
+h1{
+  color:black;
+}
+
+footer{
+  padding-left: 5%;
+}
+
+button{
+  background-color: yellow;
+}
