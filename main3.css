@@ -1,0 +1,18 @@
+
+
+.section-left{
+  padding-top: 100px;
+  float: left;
+  padding-left: 100px;
+}
+
+.section-right{
+  padding-top: 100px;
+  float:right;
+  padding-right: 100px;
+}
+
+footer{
+  clear:both;
+  text-align: center;
+}
