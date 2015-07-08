@@ -12,12 +12,12 @@ footer{
 }
 
 section{
-  color:purple;
+  color:#FF4DC4;
   padding-left: 5%;
 }
 
 h1{
-  color:black;
+  color:#FFDD32;
 }
 
 footer{
@@ -25,5 +25,9 @@ footer{
 }
 
 button{
-  background-color: yellow;
+  background-color: #E8A530;
+}
+
+.checkbox{
+  border: red;
 }
