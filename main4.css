@@ -9,6 +9,7 @@ ul{
 
 footer{
   padding-top: 5%;
+  padding-left: 5%;
 }
 
 section{
@@ -20,14 +21,7 @@ h1{
   color:#FFDD32;
 }
 
-footer{
-  padding-left: 5%;
-}
-
 button{
-  background-color: #E8A530;
-}
-
-.checkbox{
-  border: red;
+  background-color: #E86E15;
+  box-shadow: 5px 5px 10px;
 }
